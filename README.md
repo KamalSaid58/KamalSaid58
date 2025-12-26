@@ -3,8 +3,8 @@ I'm currently working at Blue Ribbon as a Flutter Developer, contributing to pro
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/kamal-said-a046a2280/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-said-a046a2280/)
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kamal.said58@gmail.com) 
 
 # 💻 Tech Stack:
